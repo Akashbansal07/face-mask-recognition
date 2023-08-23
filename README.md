@@ -1,4 +1,4 @@
-# face-mask-recognition
+# face-mask-detection
 Project Overview:
 
 Face Mask Detection using Convolutional Neural Networks (CNN) is a machine learning project that aims to detect whether individuals are wearing masks or not from real-time video streams. The project leverages the power of deep learning and computer vision techniques to classify individuals into two categories: "masked" and "unmasked."
