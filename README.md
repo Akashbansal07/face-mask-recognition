@@ -32,4 +32,4 @@ Disclaimer:
 This face mask detection system is designed for research and educational purposes only. It should not be considered as a substitute for professional medical advice or safety measures. We encourage users to follow guidelines and recommendations from healthcare professionals and authorities regarding face mask usage and public safety.
 
 Please feel free to explore the project, utilize the code, and contribute to this important endeavor. Together, we can make a positive impact on public health and safety.
-DataSet: https://www.kaggle.com/datasets/keshavbhardwaj99999/masked-and-unmasked-dataset
+
