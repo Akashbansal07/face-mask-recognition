@@ -5,7 +5,7 @@ Face Mask Detection using Convolutional Neural Networks (CNN) is a machine learn
 
 Dataset and Model:
 
-The model was trained on a meticulously curated dataset comprising over 5000 images, split into two categories: "masked" and "unmasked." We utilized Convolutional Neural Networks (CNN) to train the model, a powerful architecture well-suited for image classification tasks. With rigorous training, the model achieved an impressive accuracy of approximately 95%, demonstrating its efficacy in distinguishing between masked and unmasked faces.
+The model was trained on a meticulously curated dataset comprising over 5000 images, split into two categories: "masked" and "unmasked." We utilized Convolutional Neural Networks (CNN) to train the model, a powerful architecture well-suited for image classification tasks. With rigorous training, the model achieved an impressive accuracy of approximately 91%, demonstrating its efficacy in distinguishing between masked and unmasked faces.
 
 Real-Time Detection:
 
